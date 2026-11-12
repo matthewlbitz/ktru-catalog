@@ -35,7 +35,7 @@ To update later, run `git pull` inside `ktru-catalog` and restart the app.
 
 ## Search
 
-Combine artist, album, primary genre, secondary genre, inclusive year range, exact shelf, and CD/vinyl filters. For a single year, enter it in both year boxes. The main search also matches barcodes, style, labels, Discogs IDs, and calculated shelf IDs. Click an album for its cover, metadata, identifiers, and tracklist. Search addresses can be bookmarked. Escape closes the popup; `/` focuses search.
+Combine artist, album, primary genre, secondary genre, inclusive year range, and exact shelf filters. For a single year, enter it in both year boxes. The main search also matches barcodes, style, labels, Discogs IDs, and calculated shelf IDs. Click an album for its cover, metadata, identifiers, and tracklist. Search addresses can be bookmarked. Escape closes the popup; `/` focuses search.
 
 ## Catalog rules
 
